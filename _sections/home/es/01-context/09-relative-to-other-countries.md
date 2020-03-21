@@ -1,8 +1,8 @@
 {:.only_toc}
-# Políticas
+## Políticas
 
 {:.no_toc}
-# Comparado con otros países, las políticas de trabajo y cuidado de salud en EEUU son la “tormenta perfecta” para una pandemia.
+## Comparado con otros países, las políticas de trabajo y cuidado de salud en EEUU son la “tormenta perfecta” para una pandemia.
 
 - No hay garantía de [cobertura para licencias médicas por enfermedad](https://www.worldpolicycenter.org/policies/for-how-long-are-workers-guaranteed-paid-sick-leave).
 - Incluso para aquellos que tienen licencias por enfermedad pagas, la cobertura dura usualmente solo unos días, no las semanas que serían necesarias al considerar una enfermedad prolongada.
