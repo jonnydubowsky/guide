@@ -1,8 +1,8 @@
 {:.only_toc}
-## Abastécete
+### Abastécete
 
 {:.do.no_toc}
-## Hay que abastecerse de comida y elementos esenciales -- Temprano, gradual, y responsablemente
+### Hay que abastecerse de comida y elementos esenciales -- Temprano, gradual, y responsablemente
 
 {% twitter https://twitter.com/monimunozto/status/1234430481703133184 align=center %}
 

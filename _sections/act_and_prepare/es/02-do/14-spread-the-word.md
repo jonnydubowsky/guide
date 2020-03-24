@@ -1,8 +1,8 @@
 {:.only_toc}
-## Pasa la voz
+### Pasa la voz
 
 {:.do.no_toc}
-## Pasa la voz y pídele a tus representantes de gobierno que apoyen la investigación que es vital en este momento.
+### Pasa la voz y pídele a tus representantes de gobierno que apoyen la investigación que es vital en este momento.
 
 El sitio de internet que lleva la cuenta de [cuántas personas han visto el documento original en Inglés](https://bit.ly/corona-guidance+) indica que la información se está esparciendo por Twitter; muchos científicos lo usamos en masa. Sin embargo, la información no está siendo esparcida en esos mismo volúmenes en Facebook, y no se está distribuyendo directamente en los lugares en que el público en general más lo necesita. Así que llama a un amigo; llama a tu familia. Cada uno de ustedes podrá ejercer la mayor influencia en las vidas de todas las personas a las que ustedes conocen personalmente. Aun cuando existen razones para no entrar en pánico, la mayoría de las personas deberían estar más preocupadas de lo que están. Haz que más gente se entere y así esta información será más efectiva a largo plazo.
 

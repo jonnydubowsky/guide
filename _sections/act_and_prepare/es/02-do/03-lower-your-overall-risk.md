@@ -1,8 +1,8 @@
 {:.only_toc}
-## Disminuye tu riesgo
+### Disminuye tu riesgo
 
 {:.do.no_toc}
-## Disminuye tu riesgo mediante las cosas que eliges hacer a diario.
+### Disminuye tu riesgo mediante las cosas que eliges hacer a diario.
 
 La acumulación de todas las cosas que elijamos hacer para llevar una vida más sana y segura todos los días, no solamente esta semana sino en los siguientes meses, pueden aplanar la curva. Continúen apoyando la economía local, pero eviten ir en horas pico; distribuir el acceso unos 15 minutos (antes/después de las horas pico) puede ayudar a reducir las multitudes. Lugares como restaurantes museos de arte y transporte público van a ser mucho menos riesgosos (y más agradables) si se visitan por fuera de las horas pico. 
 
