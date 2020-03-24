@@ -4,7 +4,7 @@
 {:.no_toc}
 # In confronto a quelle di altri Paesi, le politiche del lavoro e sanitarie degli USA possono avere conseguenze catastrofiche in una situazione di pandemia 
 
--   Nessuna garanzia universale di [congedo retribuito per malattia] (https://www.worldpolicycenter.org/policies/for-how-long-are-workers-guaranteed-paid-sick-leave)
+-   Nessuna garanzia universale di [congedo retribuito per malattia](https://www.worldpolicycenter.org/policies/for-how-long-are-workers-guaranteed-paid-sick-leave)
 -   Anche per coloro che \*hanno\* il congedo retribuito per malattia, il periodo di tempo coperto è spesso di pochi giorni, anziché delle settimane da considerare per una malattia prolungata.
 -   Nessuna garanzia di congedo retribuito per motivi familiari per fornire assistenza a parenti ammalati
 -   Nessuna garanzia di supporto economico o operativo per chi è tenuto all'auto-quarantena. [Ciò porta molti a ignorare la quarantena per procurarsi cibo.](https://twitter.com/abcnews/status/1236462655012917249)
